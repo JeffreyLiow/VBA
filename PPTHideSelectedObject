@@ -1,0 +1,12 @@
+Sub HideObject()
+    Dim objName As String
+    Dim i As Integer
+
+    For i = ActiveWindow.Selection.ShapeRange.Count To 1 Step -1
+    ActiveWindow.Selection.ShapeRange(ActiveWindow.Selection.ShapeRange.Count).Visible = False
+
+    Next i
+
+    Exit Sub
+
+End Sub
