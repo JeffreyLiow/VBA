@@ -5,3 +5,4 @@ Everytime if I have some edited code that I used before or I think it's useful I
 
 The file below is what it can function in Excel: 
 - Insert Blank Rows Based On Cell Value & Insert Value 
+- Hide PPT Selected Objects
